@@ -6,9 +6,6 @@
 
 ## 📖 Overview
 
-**Docdoc** is a Flutter-based mobile application developed as a collaborative project by a team of students:  
-**Abdelrhman Mohamed Mahmoud**, **Haydi Mostafa**, **Lina Ashraf Sediq**, and **AlaaAllah Arafa**.  
-
 The app focuses on building essential mobile development skills using Flutter and Dart — featuring user login, profile editing, and smooth navigation between screens.  
 It showcases modern UI design principles, responsive layouts, and clean, maintainable code structure.
 
